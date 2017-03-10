@@ -1,6 +1,6 @@
 id=CMScreencast
 name=Magisk Module for CM Screencast
-version=v1
+version=v1.0
 versionCode=1
 author=crashoverride1995
 description=CM Screencast mounted at /system/priv-app
