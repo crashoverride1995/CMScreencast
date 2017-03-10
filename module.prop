@@ -1,6 +1,6 @@
-id=template
-name=Template Module
+id=CMScreencast
+name=Magisk Module for CM Screencast
 version=v1
 versionCode=1
-author=topjohnwu
-description=A short description
+author=crashoverride1995
+description=CM Screencast mounted at /system/priv-app
